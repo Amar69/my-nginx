@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  my-nginx:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2020-05-04T00:38:37.135051+05:30"
+    description: my custon nginx app
+    digest: c1766ed771327f5c20b68986a899865f310adbe7aaf3c34a5cf0eca347fe0dc8
+    name: my-nginx
+    urls:
+    - https://github.com/Amar69/my-nginx/blob/gh-pages/my-nginx-0.4.0.tgz
+    version: 0.4.0
+generated: "2020-05-04T00:38:37.134625+05:30"
